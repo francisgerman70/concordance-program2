@@ -1,6 +1,6 @@
 #
 # "makefile" for the penultimate implementation of KWOC (kwoc3.c)
-# Spring 2020, assignment #3.
+# 
 #
 
 CC=gcc
