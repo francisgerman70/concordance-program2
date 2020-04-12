@@ -1,8 +1,8 @@
 /*
  * kwoc3.c
  *
- * Starter file provided to students for Assignment #3, SENG 265,
- * Spring 2020
+ * 
+ * 
  */
 #define MAX_NAME_LEN  10000
 #define  _GNU_SOURCE
